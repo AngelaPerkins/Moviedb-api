@@ -7,3 +7,7 @@
     gap: 1rem;
     flex-wrap: wrap;
 }
+.pagination{
+    position: absolute;
+    bottom:auto;
+}
