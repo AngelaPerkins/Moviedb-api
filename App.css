@@ -1,0 +1,33 @@
+/* Reset CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --background-color: #04367c;
+    --primary-text-color: #f1f5f9;
+    --card-background-color:#a8b5b3fa;
+
+}
+
+body {
+    background-color: var(--background-color);
+    overflow-x: hidden;
+}
+.Header {
+    display: flex;
+    padding: 1rem;
+    
+}
+
+.pages-list {
+    display: flex;
+    float: left;
+    padding: 50px;
+    
+}
+
+

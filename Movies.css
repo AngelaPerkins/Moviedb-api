@@ -1,0 +1,9 @@
+
+.Title{
+    font-size: 1.4rem;
+}
+.main {
+    display:flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
